@@ -1,6 +1,6 @@
 # EasyYTDL_tool
 
-YouTubeDL is a command line tool that can download videos from over 1200 websites. Because it is a command line tool, it is not widely used because most people do not use the command line.  This program has been easy to use without the use of the command line. 
+YouTubeDL is a command line tool that can download videos from over 1200 websites. It is a command line tool, because of this it is not widely used.  This program is easy to use without the use of the command line. 
 
 Click on the file: VideoDownloader.zip
 
